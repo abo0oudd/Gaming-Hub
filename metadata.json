@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Hub",
+  "description": "A premium full-stack Arabic gaming platform featuring free game deals, a secure shared Steam accounts repository, interactive forums, and an AI-powered Meme Generator using Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
